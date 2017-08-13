@@ -1,6 +1,6 @@
 # Minnosh <small>1.0</small>
 
-> A magical documentation site generator.
+> Lifestyle & Personal WordPress Blog Theme.
 
 - Simple and lightweight (~18kB gzipped)
 - No statically built html files
