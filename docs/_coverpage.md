@@ -1,4 +1,4 @@
-# docsify <small>3.5</small>
+# Minnosh <small>1.0</small>
 
 > A magical documentation site generator.
 
