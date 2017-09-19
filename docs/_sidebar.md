@@ -1,23 +1,31 @@
-- Getting started
-  - [Quick start](quickstart.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
+- Getting Started
+  - [Introduce](_pages/_get-started/_introduce.md)
+  - [WordPress Information](_pages/_get-started/_wordpress-information.md)
+  - [File Included](_pages/_get-started/_file-included.md)
+  - [Requirements](_pages/_get-started/_requirements.md)
 
-- Customization
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
+- Installation
+  - [Step 1 - Download Theme](_pages/_installation/_download-theme.md)
+  - [Step 2 - Install Theme](_pages/_installation/_install-theme.md)
+  - [Step 3 - Install Plugins](_pages/_installation/_install-plugins.md)
+  - [Step 4 - Import Demo](_pages/_installation/_import-demo.md)
 
-- Guide
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode(PWA)](pwa.md)
-  - [Server-client renderer(SSR)](ssr.md)
+- Theme Options
+  - [Site Setup](_pages/_theme-options/_site-setup.md)
+  - [Setup Homepage](_pages/_theme-options/_setup-homepage.md)
+  - [Post Formats](_pages/_theme-options/_post-formats.md)
+  - [Theme Customizer](_pages/_theme-options/_theme-customizer.md)
+  - [Custom Fonts](_pages/_theme-options/_custom-fonts.md)
 
-- [Changelog](changelog.md)
+- Header
+  - [Main](_pages/_header/_header.md)
+  - [Logo](_pages/_header/_logo.md)
+
+- Footer
+  - [Main](_pages/_footer/_footer.md)
+  - [Instagram](_pages/_footer/_instagram.md)
+
+- Customize Theme
+  - [Child Theme](_pages/_customize-theme/_child-theme.md)
+
+- [Changelog](_pages/_changelog.md)

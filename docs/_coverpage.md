@@ -2,6 +2,9 @@
 
 > Lifestyle & Personal Blog.
 
-- Simple and lightweight (~18kB gzipped)
-- No statically built html files
-- Multiple themes
+- 10 + Different Layouts
+- Light & Dark Versions
+- 10 + Custom Shortcodes
+
+[Get Support](https://github.com/QingWei-Li/docsify/)
+[Buy The Theme](#docsify)

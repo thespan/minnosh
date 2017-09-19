@@ -1,2 +1,2 @@
-- [En](/)
-- [chinese](/zh-cn/)
+- [Get Support](http://thespan.ml)
+- [Buy Minnosh](https://themeforest.net)
