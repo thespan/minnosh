@@ -56,4 +56,4 @@
 
 ## Purchasing
 
-If you like it and if you didn't buy it, it's time to [buy](https://github.com/QingWei-Li/donate) it. :blush: Please do not forget to rate it after you buy the theme. :heart:
+If you like it and if you didn't buy it, it's time to [buy](https://themeforest.net) it. :blush: Please do not forget to rate it after you buy the theme. :heart:
