@@ -1,4 +1,4 @@
-# Minnosh - Lifestyle & Personal Blog Theme
+# Minnosh - Personal & Lifestyle  Blog Theme
 
 > An awesome WordPress Project.
 
