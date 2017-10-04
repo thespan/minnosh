@@ -1,6 +1,6 @@
 # Minnosh <small>1.0</small>
 
-> Lifestyle & Personal Blog.
+> Personal & Lifestyle Blog.
 
 - 10 + Different Layouts
 - Light & Dark Versions
