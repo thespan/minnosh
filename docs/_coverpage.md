@@ -6,5 +6,5 @@
 - Light & Dark Versions
 - 10 + Custom Shortcodes
 
-[Get Support](https://github.com/QingWei-Li/docsify/)
+[Get Support](http://thespan.ml/wordpress-themes/support/minnosh/)
 [Buy The Theme](#docsify)
