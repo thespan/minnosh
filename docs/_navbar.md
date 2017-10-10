@@ -1,2 +1,2 @@
-- [Get Support](http://thespan.ml)
+- [Get Support](http://thespan.ml/wordpress-themes/support/minnosh/)
 - [Buy Minnosh](https://themeforest.net)
