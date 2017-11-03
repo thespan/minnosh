@@ -7,4 +7,4 @@
 - 10 + Custom Shortcodes
 
 [Get Support](http://thespan.ml/wordpress-themes/support/minnosh/)
-[Buy The Theme](#docsify)
+[Buy The Theme](https://themeforest.net/item/minnosh-personal-lifestyle-blog/20757593?ref=TheSpan)
