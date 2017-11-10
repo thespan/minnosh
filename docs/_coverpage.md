@@ -1,4 +1,4 @@
-# Minnosh <small>1.0</small>
+# Minnosh <small>1.0.2</small>
 
 > Personal & Lifestyle Blog.
 
