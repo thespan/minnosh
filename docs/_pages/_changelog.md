@@ -9,6 +9,7 @@
  - Fixed small style issues
  - Fixed small script.js issue
  - Fixed small issue on one full post image
+ 
 **Version 1.0.0**
 
 - Initial release  
