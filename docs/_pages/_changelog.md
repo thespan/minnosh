@@ -1,5 +1,9 @@
 # Update History
 
+**Version 1.0.3**
+ - Fixed Banner on Homepage small issue
+ - Fixed Tabs posts active tab small issue
+
 **Version 1.0.2**
  - Fixed carousel images load issue
  - Update Montserrat font settings
