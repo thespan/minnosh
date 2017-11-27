@@ -1,5 +1,10 @@
 # Update History
 
+**Version 1.0.4**
+ - Update demo data on minnosh-demo-importer plugin 
+ - Improved Search icon control on Customizer panel 
+ - Fixed Images hover opacity small issue
+
 **Version 1.0.3**
  - Fixed Banner on Homepage small issue
  - Fixed Tabs posts active tab small issue
