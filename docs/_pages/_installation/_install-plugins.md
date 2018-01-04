@@ -13,6 +13,8 @@ Required plugins are very important and must be installed and activated at all t
 
 Recommended plugins which are plugins that we use in our demos and are fully integrated with Minnosh. You can choose not to install these plugins if you’re not going to use them. The Minnosh theme **recommends** following plugins:
 
+- [WooCommerce](https://wordpress.org/plugins/woocommerce/): it is a powerful, extendable eCommerce plugin that helps you sell anything.
+
 - [Envato Market](https://envato.github.io/wp-envato-market/): The Envato Market plugin lets you view your ThemeForest purchases within the WordPress dashboard and select whether or not to receive updates.
 
 Minnosh is working perfectly with these plugins. It automatically adds more styles to them to make the design match the theme.
