@@ -1,5 +1,9 @@
 # Update History
 
+**Version 1.0.5**
+ - Added WooCommerce Support
+ - Update /languages/minnosh.pot
+
 **Version 1.0.4**
  - Update demo data on minnosh-demo-importer plugin 
  - Improved Search icon control on Customizer panel 
