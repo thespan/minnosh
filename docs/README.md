@@ -11,6 +11,7 @@
 - 24/7 Support & FREE Lifetime Updates!
 - WordPres Live Theme Customizer (Highly Customizable)
 - One-Click Import of Demo Content
+- WooCommerce comaptible
 - 100% Responsive
 - Light & Dark Version
 - 5 Header layouts
