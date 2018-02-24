@@ -23,7 +23,7 @@ Once you’ve checked all requirements and ensure everything is ok, it's time to
 
 1. **I stuck at the importing screen**
 
-	Mostly, this issue comes from the hosting configuration. Please place a ticket on our [support system](http://uix.ticksy.com/). Our developer will help you check it.
+	Mostly, this issue comes from the hosting configuration. Please place a ticket on our [support system](http://thespan.ml/wordpress-themes/support/minnosh/). Our developer will help you check it.
 
 1. **Demo content duplicated**
 
